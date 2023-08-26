@@ -1,9 +1,8 @@
-Music: 6.14.50  
+Music: 6.16.52  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
-
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-2.23.0-all.jar  
