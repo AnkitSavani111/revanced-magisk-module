@@ -1,5 +1,5 @@
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "arm64-v8a"
+build-mode = "module"
 version = "latest"
-build-mode = "both"
